@@ -1,0 +1,5 @@
+# Copy into the first conversation
+
+Read AGENTS.md, docs/01-initialize.md, and the input checklist. Help me initialize this repository for my own job search. First report which supplied files and tools you can access. Interview me in short rounds about target roles, relevant experience, location/work preferences, constraints, and document style. Read my supplied sources fully and ask follow-ups only for missing or conflicting facts.
+
+Create the private profile, preferences, evidence inventory, input index, decisions, and session context. Adapt the generic resume_template.tex and cover_letter_template.tex using only my supported facts. Show me rendered sample documents, iterate with me on style and voice, and save my approved templates and editable style-rules.md for future runs. Initialize a jobs workbook template and prior-job history if I do not have them. Do not start a job campaign until setup is ready. If local file writes or rendering are unavailable, return named downloadable files and exact local rendering instructions.

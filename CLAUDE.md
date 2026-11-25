@@ -1,0 +1,1 @@
+Read and follow [AGENTS.md](AGENTS.md). It is the shared workflow entry point. In chat-only sessions, attach its contents and the relevant procedure files explicitly. Read private/context/SESSION_CONTEXT.md before continuing an existing campaign.

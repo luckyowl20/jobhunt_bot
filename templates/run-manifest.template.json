@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "run_id": "REPLACE",
+  "created_at": "ISO-8601 with offset",
+  "timezone": "REPLACE",
+  "mode": "full",
+  "context_revision": "REPLACE",
+  "style_revision": "REPLACE",
+  "inputs": [],
+  "configuration": {
+    "target_jobs": 10,
+    "search_preferences_path": "private/context/search-preferences.md",
+    "outreach_enabled": false
+  },
+  "accepted_count": 0,
+  "jobs": [],
+  "job_record_contract": {
+    "job_key": "stable key",
+    "official_url": "URL",
+    "checked_at": "ISO time",
+    "application_status": "unknown",
+    "resume_source": "path",
+    "resume_pdf": "path",
+    "cover_source": "path",
+    "cover_pdf": "path",
+    "email_draft": "path"
+  },
+  "stages": {
+    "source_review": "pending",
+    "discovery": "pending",
+    "contacts": "pending",
+    "resumes": "pending",
+    "cover_letters": "pending",
+    "rendering": "pending",
+    "outreach": "pending",
+    "qa": "pending"
+  },
+  "history_append": {
+    "status": "not_started",
+    "pre_count": null,
+    "post_count": null,
+    "keys": []
+  },
+  "outputs": {},
+  "unresolved": []
+}
